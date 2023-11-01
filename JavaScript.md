@@ -1,0 +1,7 @@
+---
+tags:
+  - JavaScript
+---
+
+
+[[Data types]]
